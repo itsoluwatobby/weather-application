@@ -9,4 +9,4 @@ Javascript
 HTML & CSS
 An external API
 ```  
-![This is an image](C:\Users\OLUWATOBBY\Pictures\RESTTEMPLATE\weatherApp)
+![This is an image](C:/Users/OLUWATOBBY/Pictures/RESTTEMPLATE/weatherApp)
